@@ -4,3 +4,4 @@ Decola Dev é uma combinação de jornada de aceleração e programa de estágio
 Aprendendo O que São Estruturade Dados e Algoritmos
 
 Estrururas de dados em um sistema , qual a importância dela e como trabalhar com o armazenamaneto dessas Informações de forma agil e otimizada
+
