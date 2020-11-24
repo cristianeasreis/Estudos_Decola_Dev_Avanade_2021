@@ -1,2 +1,59 @@
 Aprenda o Que São Estruturas de Dados e Agoritmos
 
+O que é Estrutura de Dados ?
+
+Estrutura de Dados é uma estrutura organizada
+de dados na memória de um computador ou em 
+qualquer dispositivo de armazenamento, de forma
+que os dados possam ser utilizados de forma
+correta.
+
+Estrutura de Dados
+
+Essas estrutura encontram muitas aplicações no 
+desenvolvimento sistemas, sendo que algumas 
+são atualmente especializadas em tarefas especificas.
+Usando as estruturas adequadas através de algoritmos,
+podemos trabalhar com uam grande quantidade de 
+dados, como aplicações em bancos de dados ou 
+serviços de busca.
+
+Algoritmos
+
+Um algoritmo é um conjunto de instruções estruturadas
+e ordenadas , seu objetivo é realizar uma tarefa
+ou operação específica.
+Os algoritmos são utilizados para manipular Dados
+nas estruturas de várias formas , como por exemplo:
+inserir, alterar, excluir , procurar e ordenar dados.
+
+Em uma estrutura de dados devemos saber como realizar
+um determinado conjutno de operações básicas , como por exemplo:
+
+Inserir Dados 
+Excluir Dados 
+Localizar um elemento 
+Percorrer todos os itens constituintes da estrutura para 
+Visualização
+Classificar , que se resume em colocar os itens de dados
+em uma determinada ordem (numérica, alfabética, etc..)
+
+Principais Estruturas de Dados 
+
+Vetores e Matrizes
+Registro
+Lista 
+Pilha 
+Fila 
+Árvore
+Tabela hash
+Grafos
+
+
+
+
+
+
+
+
+
