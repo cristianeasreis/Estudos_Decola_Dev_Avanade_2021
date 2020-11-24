@@ -1,0 +1,12 @@
+Estudando Registros
+
+Estrutura tipo Registros
+
+Um Registro é uma estrutura que fornece um formato
+especializado para armazenar informações em Memória.
+Enquanto Arrays nos permitem armazenar vários dados
+de um único tipo de dados , o recurso de Registro nos 
+Permite armazenar mais de um tipo de dado.
+
+
+
