@@ -1,3 +1,28 @@
 Estudando Pilhas 
 
 O que são Pilhas ?
+
+Uma Pilha é uma estrutura de dados que serve como uma coleção
+de elementos, e permite o acesso a somente um intem de 
+dados armazenados.
+
+O acesso aos itens de uma pilha é restrito- somente um item
+pode ser lido ou removido por vez.
+
+Tipos de Pilhas:
+
+LIFO OU PEPS
+FIFO OU UEPS
+
+LIFO - A estrutura do tipo Pilha LIFO (Last in First Out)
+ou UEPS (Ultimo que Entra Primeiro que Sai),apresenta o 
+seguinte critério :o primeiro elemento a ser retirado é o 
+ultimo que tiver sido inserido.
+
+FIFO - A estrutura do tipo PILHA FIFO(First in First Out)ou
+PEPS(Primeiro que Entra Primeiro que Sai),apresenta o 
+seguinte critério: o primeiro elemento a ser retirado é o 
+primeiro que tiver sido inserido.
+
+A pilha é removido de baixo para cima.
+
