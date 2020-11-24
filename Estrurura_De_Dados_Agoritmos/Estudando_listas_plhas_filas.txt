@@ -22,3 +22,13 @@ são amarrados com essa indicação de quel é o próximo nó.
 
 Lista Duplamante Ligada - constituem uma variação das 
 listas ligadas.
+
+A grande diferença das listas duplamente ligadas para as
+listas ligadas é que elas são bidirecionais.Vimos que, 
+naturalmente , não conseguimos "andar para trás" em 
+listas ligadas , pois os nós de uma lista sabem somente que 
+é o próximo elemnteo . Nas Listas duplamente ligadads, os 
+nós sabem quem é o próximo elemnento e também o elemento
+o anteiormente que permite a navegação reversa.
+
+
