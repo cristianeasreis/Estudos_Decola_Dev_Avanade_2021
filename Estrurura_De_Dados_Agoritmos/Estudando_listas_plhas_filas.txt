@@ -1,2 +1,24 @@
 Entenda o que São Listas, Pilhas e Filas.
 
+O que são listas ?
+
+Estrutura de Dados Tipo Lista, armazena dados de um 
+determinado tipo em uma ordem específica.
+
+A diferença entre listas e arrays é a de que as listas
+possuem tamanho ajustável , enquanto arrays possuem 
+tamanho fixo.
+
+Existem dois tipos de listas:
+
+Ligadas
+Duplamente Ligadas
+
+Lista Ligada - Na estrutura do tipo existem os nós onde cada
+um dos nós conhece o valor que está sendo armazenado em seu
+inteirios alem de conhecer o elemento posterior a ele:
+por isso ela é chamada de "lista ligada", pois os nós
+são amarrados com essa indicação de quel é o próximo nó.
+
+Lista Duplamante Ligada - constituem uma variação das 
+listas ligadas.
