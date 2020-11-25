@@ -1,3 +1,9 @@
 Estudando Arvores 
 
 O que são Arvores?
+
+Estrutura de dados que organiza seus elementos de forma
+hierarquica, onde existe um elemnteo que fica no topo da
+arvore, chamado raiz e exitem os elementos subordinados a 
+ele , que são chamados de nós ou folhas.
+
