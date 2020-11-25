@@ -1,2 +1,21 @@
 O que é e como funciona o C#
 
+O que é o C# ?
+
+É uma linguagem que começou na decada de 90.
+C# é uma linguagem elegante, orientada a objeto e fortemente
+tipada.
+A sintaxe do C# é similar a do C, C++ Ou Java.
+
+Suporta os conceitos de encapsulamento, herança e
+polimorfismo(OO).
+
+Os programs C# são executados no .Net, que incluio.
+
+.CLR (Common Language Runtime)
+.Conjunto unidicado de biblioteca de classes.
+
+Atualmente o compilador do C# é o Roslyn.
+
+
+
