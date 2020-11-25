@@ -13,9 +13,28 @@ polimorfismo(OO).
 Os programs C# são executados no .Net, que incluio.
 
 .CLR (Common Language Runtime)
-.Conjunto unidicado de biblioteca de classes.
+.Conjunto unificado de bibliotecas de classes.
 
 Atualmente o compilador do C# é o Roslyn.
 
+Como Funciona ?
+
+O Código-fonte escrito em C# é compilado em uma linguagem
+intermediária(IL).
+
+O código e os recursos de IL são armazenados no disco
+em um arquivo executável chamado assembly geralmente
+com uma extensão .exe o .dll
+
+Quando o programa C# é executado, o assembly é carregado
+no CLR.
+Em seguida o CLR executará a compilação Just in Time(JIT)
+para converter o codigo IL em intruçoes de maquin nativas.
+
+O CLR também fornece outros serviços:
+
+.GARBAGE COLLECTOR
+.EXCEPTION HANDLER
+.RESSOURCES MANAGER
 
 
