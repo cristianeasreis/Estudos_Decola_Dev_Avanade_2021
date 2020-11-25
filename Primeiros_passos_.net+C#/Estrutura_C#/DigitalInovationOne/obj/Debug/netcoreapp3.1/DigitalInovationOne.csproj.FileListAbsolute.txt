@@ -1,0 +1,13 @@
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Estrutura_C#\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.exe
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Estrutura_C#\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.deps.json
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Estrutura_C#\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.runtimeconfig.json
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Estrutura_C#\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.runtimeconfig.dev.json
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Estrutura_C#\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.dll
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Estrutura_C#\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.pdb
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Estrutura_C#\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.csprojAssemblyReference.cache
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Estrutura_C#\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.AssemblyInfoInputs.cache
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Estrutura_C#\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.AssemblyInfo.cs
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Estrutura_C#\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.csproj.CoreCompileInputs.cache
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Estrutura_C#\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.dll
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Estrutura_C#\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.pdb
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Estrutura_C#\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.genruntimeconfig.cache

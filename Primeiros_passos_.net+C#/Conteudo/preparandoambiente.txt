@@ -14,3 +14,22 @@ Conhecendo a CLI do .NET
 
 dotnet -- help
 dotnet -- info
+
+Criando uma aplicação console
+
+linhas de comando 
+
+dotnet new console -n DigitalInovationOne
+Code . abre o vs Code
+
+pasta bin são os binarios da aplicação.
+
+dotnet restore
+dotnet build
+dotnet run
+
+
+
+
+
+
