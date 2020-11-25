@@ -2,3 +2,177 @@ Estudando .Net
 
 O que é .Net?
 
+Passado Presente e Futuro 
+
+Anos 70
+
+Microsoft iniciou nos anos 70 criando linguagens de programação
+Basic.
+
+Anos 80 
+
+Nos anos 80 , surge o DOS , que foi utilizado como OS padrão
+para computadores IBM.
+
+Nos próximos anos a Microsoft atua fortemente na criação DO
+OS Windows.
+
+1997
+
+No fim dos anos 90, a Microsoft tentou consolidar as ferramentas
+de desenvolvimento (IDEs e runtimes) como o Visual Studio 97:
+
+Visual Basic 5
+Visual FoxPro 5
+C++5
+J++5
+
+1998
+
+Lançamento do Visual Studio 6:
+
+Visual Basic 6
+Visual FoxPro 6
+C++6
+J++6
+
+1999
+
+Scott Gunthrie criou uma ferramenta web como Java, e a chamou
+de ASP+(Depois chamou ASP Next e depois ASPX).
+
+Jason Zander ajudou na criação de um common runtime pra VB e C++
+(CLR).
+
+Java ia bem ! Então o Sun Microsystems fez um acordo para a 
+Microsoft não mexer mais com Java!
+Com isso, Anders Hejlsberg começou a trabalhar no C#.
+
+2000
+
+Microsoft lança o novo ambiente de desenvolvimento .Net 1.0 -
+Inicialmente chamado de NEXT GENERATION WINDOWS SERVICES(NGWS).
+
+Microsoft.Net
+
+2001
+
+Miguel de Lcaza começa a trabalhar no projeto Mono, uma 
+reimplementação black box do .Net ,
+Open Source e Multiplataforma.
+
+
+2002
+
+Lançamento do Visual Studio .Net com C# 1.0
+
+Conhecido como 22 linguagens , 1 plataforma:
+
+C# .Net
+C++ .Net
+VB .Net
+J# .Net
+Entre outras
+
+2003
+
+Lançamento do .Net 1.1 com Visual Studio 2003.
+Trabalham em melhorias no CLR para lançar o ClR2.
+
+2005
+
+Lançamento do .Net 2.0 com C# no Visual Studio 2005
+
+Microsoft começa a atingir seu objetivo inicial, inclusive
+evoluindo na web.
+
+2007 - 2008
+
+Lançamento do .Net 3.5 no Visual Studio 2008 , com 
+Silverlight.WPF E WCF.
+
+Microsoft contrata um time de pessoas que tinham uma pegada
+open source e começam a atuar na criação do ASP.NET MVC.
+
+Começa a se falar em Windows Azure.
+
+2010
+
+Lançamento do .NET 4.0 com C# 4.0 no Visual Studio 2010,
+também com F#
+
+Microsoft lança comercialmente Windows Azure.
+
+Anders Hejlsberg começa a trabalhar no Typescript.
+
+2011
+
+Miguel de Lcaza inicia Xamarin, basicamente ele desenvolvia
+em C# aplicativos que rodam em android e IOS.
+
+2012 
+
+Lançamento do .Net 4.5 com C# 5.0 no Visual Studio 2012
+
+Lançamento do Typescript.
+
+2013
+
+Lançamento do .Net 4.5.1 no Visual Studio 2013
+
+Inicio do Roslyn, um novo compilador para C# e VB.NET.
+
+Microsoft continua atuando mais na frente JS e aumenta
+também o incorporação de ferramentas open source ao ambiente.
+
+Já temos aqui o ASP.NET mais consolidado com MVC , WEB API
+e SignalR.
+Mas , tudo ainda é muito Windows!
+
+2014
+
+Satya Nadella se torna CEO da Microsoft e direciona o foco
+da empresa para cloud.
+
+Criação do .NET FOUNDATION para gestão de projetos open source.
+
+Windows Azure passa a se chamar Microsoft Azure
+
+E introduzido o conceito do ASP.NET vNEXT, posteriormente
+chamado de ASP.NET CORE.
+
+2015
+
+Lançamento do .Net 4.6 com C# 6.0 no Visual Studio 2015
+Lançamento do Visual Studio Code.
+
+2016
+
+Microsoft adquire o Xamarin e adiciona o produto como parte
+de sua stack .Net e projetos open source
+
+Lançamento do Visual Studio for Mac
+
+Lançamento do .Net Core 1.0 - Totalmente novo, open source e 
+Multiplataforma!
+
+2017
+
+Lançamento do .Net Framework 4.7 Com C# 7.0 no Visual Studio 2017
+
+Lançamento do .NET CORE 2.0 com C# 7.0 Visual Studio 2017,
+Visual Studio Code ou Visual Studio for Mac 2017.
+
+2019 
+
+Lançamento do .Net Framework 4.8 com C# 7.3 no Visual Studio 2019.
+Lançamento do .Net Core 3.0 com C# 8.0 no Visual Studio 2019 , 
+Visual Studio Code Ou Visual Studio for Mac 2019.
+
+2020
+
+.Net Framework está pronto na versão 4.8!
+E deixa de ser evoluido - Junto com ele  WCF e APS.NET WEBFORMS.
+Previsto lançamento do .Net 5!
+
+
