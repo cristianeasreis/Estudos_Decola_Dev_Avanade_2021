@@ -10,3 +10,7 @@ extençoes vsCode
 C#
 C# extensions
 
+Conhecendo a CLI do .NET
+
+dotnet -- help
+dotnet -- info
