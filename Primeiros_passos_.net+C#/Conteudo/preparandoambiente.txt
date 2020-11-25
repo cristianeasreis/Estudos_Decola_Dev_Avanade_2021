@@ -1,2 +1,12 @@
 Preparando o Ambiente
 
+dotnet.microsoft.com/download 
+
+Linha de comando no cmd
+
+dotnet -- version
+extençoes vsCode
+
+C#
+C# extensions
+
