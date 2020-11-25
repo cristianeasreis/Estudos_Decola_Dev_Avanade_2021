@@ -10,5 +10,11 @@ utiliza uma função denominada HASHING para espalhar os elementos
 fazendo com que os mesmos fiquem de forma não ordenada dentro
 do "array" que define a tabela.
 
+Por que espalhar?
 
+A tabela hash permit a associação de "valores"a "chaves".
+
+Valores: é a posição ou indice onde o elemento se escontra.
+
+Chaves:parte da informação que compõem o elemento a ser manipulado.
 
