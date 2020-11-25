@@ -2,3 +2,10 @@ Estudando Grafos
 
 O que são Grafos?
 
+Grafos são estruturas que permitem programar a relação entre objetos.
+Os objetos são vertices ou "nós"do grafo.
+
+Os relacionamentos são arestas.
+
+
+
