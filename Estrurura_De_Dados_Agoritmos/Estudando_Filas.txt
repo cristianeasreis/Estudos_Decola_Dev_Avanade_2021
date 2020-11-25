@@ -2,3 +2,10 @@ Estudando Filas
 
 O que são Filas?
 
+A estrutura do tipo fila admite remoção de elementos
+a inserção de novos sujeita à segiotme regra de operação:
+O elemento removido é o que esta na estrutura há mais tempo 
+ou seja , o primeiro objeto inserido na fila é também o 
+primeiro a ser removido seguindo o conceito FIFO.
+
+
