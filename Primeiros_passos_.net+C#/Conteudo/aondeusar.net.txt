@@ -1,2 +1,33 @@
 Como e aonde usar .Net
 
+Infraestrutura para desenvolvimento de software criada pela
+Microsoft.
+
+Uma aplicação .Net é desenvolvida para e roda em uma das 
+seguintes implementações do .Net:
+
+.NET CORE
+.NET FRAMEWORK
+.MONO
+.UNIVERSAL WINDOWS PLATAFORM (UWP).
+
+Cada Implementação inclui um ou mais .Net Runtimes(ambiente de execução):
+
+.NET CORE : CORE CLR E CORERT
+.NET FRAMEWORK : CLR
+.MONO : MONO Runtime
+.UWP : NET NATIVE
+
+Atualmente a Microsoft desenvolve e suporta 3 linguagens para .Net
+
+C#
+F#
+VB
+
+Quem usa .Net - casas bahia , guarani, br, unimed, techs, Itau,Gol
+Stackoverflow, Microsoft e outras...
+
+
+
+
+
