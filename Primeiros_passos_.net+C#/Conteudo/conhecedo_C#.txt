@@ -37,4 +37,8 @@ O CLR também fornece outros serviços:
 .EXCEPTION HANDLER
 .RESSOURCES MANAGER
 
-
+Além dos serviços de tempo de execução , o .Net tambem
+inclui uma extensa biblioteca com milhares de classes que 
+fornecem uma ampla variedade de funcionalidades uteis, desde
+entrada e saida de arquivos, manipulação de cadeias de carcteres
+analise XML , etc...
