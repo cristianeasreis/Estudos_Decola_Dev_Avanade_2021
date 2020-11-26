@@ -1,0 +1,30 @@
+Estudando Tipos De Valor
+
+Tipos De Variaveis
+
+Variáveis de tipos de valor contêm diretamente sues dados.
+
+As Variáveis têm sua própria cópia dos dados e não é possivel
+que as operações afetem outra variável (exceto no caso das 
+variaveis de parâmetro ref e ouf).
+
+Tipos de Valor
+
+Numéricos: sbyte, short, int,long,byte, ushort, uint,ulong.
+
+Caracteres Unicode : char
+
+Pontos Flutuantes: float, double, decimal.
+
+Booleano: bool 
+
+enum, struct e tipos nullable(exemplo int?).
+
+Tipos de referência 
+
+Variáveis de tipos de referência armazenam referências a seus dados.
+
+É possível que duas variáveis façam referência ao mesmo objeto e , portanto,
+que operações em uma variável afetem o objeto referenciado pela outra 
+variável.
+
