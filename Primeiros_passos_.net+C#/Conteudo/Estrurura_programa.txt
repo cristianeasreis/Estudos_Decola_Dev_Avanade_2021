@@ -1,0 +1,10 @@
+Estudando estrutura de programa
+
+Os principais conceitos organizacionais em C# são:
+
+.Programas
+.Namespaces
+.Tipos
+.Membros
+.Assemblies
+
