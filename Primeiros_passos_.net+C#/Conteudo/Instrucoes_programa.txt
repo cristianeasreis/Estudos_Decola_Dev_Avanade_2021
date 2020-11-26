@@ -1,0 +1,26 @@
+Instruções
+
+Ações de um programa são expressas usando instruções.
+
+{
+    Um bloco permite que várias instruções sejam escritas em 
+    contextos.
+}
+
+.Declaração de variáveis e constantes locais
+.if
+.While
+.do
+.for
+.foreach
+
+Instruções auxiliares
+
+.break
+.continue
+.return
+.throw
+.try..catch..finally
+.using
+
+
