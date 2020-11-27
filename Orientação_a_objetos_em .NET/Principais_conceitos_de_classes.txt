@@ -1,2 +1,49 @@
 Principais conceitos de classes, objetos e visibilidade
 
+O que são Classes ?
+
+Pode ser considerado como se fosse um molde para o objeto,
+contendo dentro de si as principais informações para a 
+sua criação.Define os atributos métodos comuns que serão
+compartilhados por um objeto.
+
+UMl - linguagem universal de modelagem.
+
+O que são Objetos?
+
+Considera-se um objeto tudo aquilo que em geral possui atributos, comportamentos
+e um estado .A classe em sim é um conceito abstrato, como um molde,que se
+torna concreto e palpável através da criação de um objeto.
+
+Objetos
+
+Na programação o objeto é uma instanciação (criação a partir) de uma classe,
+Para criarmos ou "Intanciarmos" objetos de uma determinada classe,
+utilizamos o operador new.
+
+Exemplo: 
+Produto obj = new Produto();
+
+Visibilidade
+
+A visibilidade é importante para a proteção do código e suas funcionalidades,
+define quem pode alterar cada dado dos trechos de códigos em três 
+Principais niveis:
+
+.Publica (representada pelo simbolo "+");
+.Privada (representada pelo simbolo "-");
+.Protegida (representada pelo simbolo "#");
+
+Esse encapsulamento de atributos e métodos impede o chamado vazamento 
+de escopo, onde um atributo ou método é visivel por alguém que não 
+deveria vê-lo, como outro objeto ou classe.
+
+Isso evita a confusão do uso de variáveis globais no programa,
+deixando mais fácil de identificar em qual estado cada variável vai 
+estar a cada momento do programa , já que a restrição de acesso nos 
+permite identificar quem consegue modificá-la.
+
+
+
+
+
