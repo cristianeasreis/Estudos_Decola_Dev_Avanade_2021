@@ -1,0 +1,2 @@
+Estudando a função de interfaces e enums
+

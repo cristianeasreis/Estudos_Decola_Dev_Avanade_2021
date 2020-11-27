@@ -2,4 +2,35 @@ Estudando Structs
 
 O que são Structs?
 
+Como as classes, as structs são estruturas de dados que
+podem conter membros de dados e membros de ação,mas,
+diferentemente das classes , as structs são tipos de 
+valor e não requerem alocação de heap.
+
+Uma variável de um tipo de struct armazena diretamente
+os dados da estrutura , enquanto uma variável de um tipo
+de classe armazena uma referência a um objeto alocado
+na memória.
+
+Structs não aceitam herança determinada pelo desenvolvedor
+São úteis para pequenas estruturas de dados que possuem
+semâtica de valor : números complexos, pontos em um 
+sistema de coordenadas ou pares de chave-valor em um 
+dicionário são bons exemplos de utilização.
+
+É utilizadas em estrururas pequenas .
+
+O uso de structs em vez de classes para pequenas estruturas
+de dados pode fazer uma grande diferença no número de 
+alocações de memória.
+
+Construtores de structs são chamados como o operador
+new, semelhante a um construtor de classe, mas em vez
+de alocar dinamicamente um objeto no heap gerenciado e 
+retornar uma referência a ele, um construtor struct 
+simplesmente retorna  o próprio valor struct(normalmente em 
+um local temporário na stack), e esse valor é copiado
+conforme necessário.
+
+site eximiaco.tech/pt/category/fundamentos
 
