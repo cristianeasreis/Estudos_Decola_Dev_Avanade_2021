@@ -68,3 +68,7 @@ calculado e retornado pelo método.
 
 Como aplicar classes e objetos em projetos
 
+O método estático pertence a classe e não a instancia.
+
+
+
