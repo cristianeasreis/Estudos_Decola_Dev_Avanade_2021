@@ -18,3 +18,7 @@ Nesse desafio de codificação você irá praticar através do desenvolvimento d
 
 Codigos Prontos para usar direto na plataforma DIO.
 
+# Orientação a objetos em .NET
+
+Um curso voltado para iniciantes em C# e .NET que foca no aprendizado teórico dos principais conceitos em orientação a objetos, como métodos, classes e propriedades.
+
