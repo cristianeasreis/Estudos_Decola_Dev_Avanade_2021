@@ -15,3 +15,6 @@ Nesse curso o aluno terá o primeiro contato com a plataforma .NET e sua linguag
 Introdução a Programação com C#.
 
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
+
+Codigos Prontos para usar direto na plataforma DIO.
+
