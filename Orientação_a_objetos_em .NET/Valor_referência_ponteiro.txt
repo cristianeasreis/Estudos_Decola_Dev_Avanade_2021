@@ -1,2 +1,14 @@
 Entenda os diferentes tipos por valor, referência e ponteiro
 
+Tipos por valor
+
+O C# tem duas grandes categorias de tipos: 
+por valor e por referência. Os tipos por valor são gerenciados
+diretamente e têm as seguintes caracteristicas principais:
+
+.Todos os tipos de dados numéricos.
+.Não precisam ser inicalizados com o operador new.
+.A variável armazena o valor diretamente.
+
+
+
