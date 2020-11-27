@@ -47,7 +47,7 @@ namespace Revisao
                         decimal notaTotal = 0;
                         var nrAlunos = 0;
 
-                        for (int i=0; i < alunos.Length; i++)
+                        for (int i = 0; i < alunos.Length; i++)
                         {
                             if (!string.IsNullOrEmpty(alunos[i].Nome))
                             {
@@ -76,7 +76,7 @@ namespace Revisao
                             conceitoGeral = Conceito.B;
                         }
                         else
-                        { 
+                        {
                             conceitoGeral = Conceito.A;
                         }
 

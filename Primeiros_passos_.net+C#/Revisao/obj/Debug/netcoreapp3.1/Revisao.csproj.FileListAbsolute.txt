@@ -1,0 +1,13 @@
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+D:\estudos_Decola_Dev_Avanade_2021\Primeiros_passos_.net+C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
