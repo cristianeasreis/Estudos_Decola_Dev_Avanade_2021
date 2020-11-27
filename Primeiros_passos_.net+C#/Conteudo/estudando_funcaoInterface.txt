@@ -1,2 +1,17 @@
 Estudando a função de interfaces e enums
 
+interfaces
+
+Uma interface define um contrato que pode ser implementado
+por classes e structs.
+
+Uma interface pode conter métodos , propriedades, eventos
+e indexadores.
+
+Uma interface não fornece implementações dos membros que 
+define-apenas "assinaturas".
+
+As inferfaces podem empregar herança múltipla.
+
+Enums
+
