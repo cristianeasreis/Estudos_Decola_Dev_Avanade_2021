@@ -1,5 +1,53 @@
-O que são métodos
-Métodos e tipos de métodos
+O que são métodos?
+
+Os métodos determinam o comportamento dos objetos de uma classe
+e são capzes de controlar o estado da intância.São funções que 
+realizam tarefas.Eles podem ou não retornar valores, e podem 
+ou não receber parâmentros.
+
+O envio de mensagens (chamada de métodos)pode alterar o estado
+de um objeto.Esses métodos temos como difundidos os GETTERS,os 
+SETTERS e o CONSTRUCT.
+
+Tipos de métodos
+
+
+Os Getters ou métodos acessores solicitam o acesso a informação 
+de um determinado produto sem dar acesso diretamente a ele,
+colocando ali uma barreira de proteção para os dados.
+
+O get retorna o atributo correspondente:
+
+Métodos modificadores
+
+Os Setters ou métodos modificadores enviam o pedido de alteração de uma 
+determinada informação de um objeto sem que se altere diretamente o mesmo.
+
+O set recebe um valor e o repassa para o atributo:
+
+Métodos Construtores
+
+A função do construct ou método construtor é inicializar ou dar forma à 
+classe.É nele que indicamos os valores dos campos de uma classe.Esses
+valores podem ser internos (no código) ou externos(passando por parâmetros).
+
+As regras para definição de um construtor são?
+
+.o construtor deve ter o mesmo nome da classe:
+.não tem tipo de retorno:
+.é executado apenas um , apenas uma vez, no momento da criação do objeto:
+.não pode-ser chamado diretamente:
+.deve ser"public";
+
+
+
+
+
+
+
+
+
+
 
 
 
