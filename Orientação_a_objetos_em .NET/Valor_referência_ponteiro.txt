@@ -10,5 +10,65 @@ diretamente e têm as seguintes caracteristicas principais:
 .Não precisam ser inicalizados com o operador new.
 .A variável armazena o valor diretamente.
 
+.A atribuição de uma variavel a outra copia o conteudo , criando 
+eletivamente outra cópia da variavel.
+.Não podem conter o valor null.
+.Exemplos de variaveis desse tipo são:integers doubles , floats e char.
+
+Variaveis tipos Inteiros
+
+Os tipos inteiros(integers) têm sempre o mesmo significado independente
+da implementação.
+
+Variaveis do tipos Double e floats
+
+Os números de ponto flutuante são bastante 
+convercionais , as operações de ponto flutuante não geram erros.
+
+
+Variaveis tipos Caracteres
+
+Em C# , todos os caracteres (char) são armazenados no Padrão Unicode
+e usam 16 bits por caractere.O Unicode permite armazenar os caracteres
+de todas as linguas vivas (como grego, japonês, chinês e coreano) e 
+algumas mortas (como sânscrito).
+
+Tipos Por referência
+
+Um tipo por referência armazena uma referência a seus dados .
+Os tipos de referência incluem o seguinte:
+
+.Duas variáveis poderem conter a referência a um mesmo objeto.
+.Uma operação em uma afetarem a outra.
+.Todas as matrizes e vetor, mesmo que seus elementos sejam de tipos
+de valor.
+.Exemplos de tipos por referência Strings, classes e arrays.
+
+Semelhante ao char, strings são variáveis do tipo texto.
+São uma sequência de caracteres, geralmente utilizada para 
+representar palavras , frases ou textos de um programa.
+
+As strings são consideradas imutaveis e não podem ser alteradas 
+depois de criadas.Quando você efetua uma operação qualquer.
+como por exemplo, concatenar um caracter , você na verdade está,
+criando outra string e descartoando a anterior.
+
+Como visto anteriormente é um tipo definido pelo usuario e correspondem
+a uma class.As classes são sempre derivadas de object e podem conter
+campos , métodos e proriedades.Uma classe pode derivar de uma única
+ou outra classe, e também de várias interfaces.
+
+Variaveis tipos arrays
+
+Uma array (matriz) é uma lista de valores onde todos os valores no 
+grupo são referenciados pelo nome da matriz e o indice atribuído
+ao valor especifico na matriz.
+
+Variaveis tipos Ponteiro
+
+Um ponteiro ou apontador é um tipo de dado de cujo valor se 
+refere diretamente a um outro valor alocado em outra área da memória,
+através de seu endereço.
+
 
 
