@@ -1,0 +1,14 @@
+Aprendendo o conceito básico de API
+
+O que é API ?
+
+A sigla API em português significa "Interface de Programação 
+de Aplicaçoes".
+
+As APIs são uma forma de realizar a integração entre sistemas
+mesmo que esses possuam linguagens de programação diferente.
+
+Um exemplo de API é o Google Maps que é utilizado
+por empresas de Hotel em que é disponibilizada dentro 
+do site da empresa a localização em que ele fica.
+
