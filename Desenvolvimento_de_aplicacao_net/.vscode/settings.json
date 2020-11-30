@@ -4,7 +4,10 @@
         "standardld"
     ],
     "cSpell.ignoreWords": [
+        "api",
+        "aspnet",
         "builder",
+        "core",
         "cursomvc",
         "datebase",
         "dbcontext",
@@ -13,7 +16,10 @@
         "localdb",
         "mssqllocaldb",
         "options",
+        "pacotes",
+        "para",
         "server",
+        "swashbackle",
         "visivel"
     ]
 }

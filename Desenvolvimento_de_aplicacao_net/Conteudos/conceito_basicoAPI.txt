@@ -12,3 +12,40 @@ Um exemplo de API é o Google Maps que é utilizado
 por empresas de Hotel em que é disponibilizada dentro 
 do site da empresa a localização em que ele fica.
 
+O que é REST?
+
+O REST é um conjunto de princípios que quando aplicados
+de maneira correta em um aplicação , a beneficia com a 
+arquitetura e padrões da própria web.
+
+Uma aplicação que é capaz de aplicar tais princípios
+é chamada de RESTful.
+
+Swagger
+
+Quando é preciso consumir uma API existe é necessário 
+conhecer as funcionalidades disponíveis e detalhes de 
+como consumir tal funcionalidade.
+Diante dessa necessidade exite o Swagger que é um 
+projeto composto por algumas ferramentas para auxiliar
+o desenvolvedor de API em algumas tarefas como por 
+exemplo a documentação da API.
+
+Pacotes para api Swashbackle.ASPNETCore
+
+configuração Swagger Visual Studio
+
+botão direito no projeto propriedades
+
+compilar
+
+Ativar Documentação XML
+
+Depurar
+
+iniciar navegador Swagger
+
+depois vai no Startup.cs
+
+   services.AddSwaggerGen();
+
