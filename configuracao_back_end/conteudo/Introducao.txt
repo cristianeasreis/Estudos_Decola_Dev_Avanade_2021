@@ -1,2 +1,22 @@
 Introdução e setup da API
 
+História de usuário 
+
+> Cadastro de usuário
+> Login do usuário
+> Cadastro de curso usuário autenticado
+> Lista de cursos do usuário autenticado
+
+O setup da API
+
+criar um projeto aspnetcore web aplicação
+
+depois de colocar no nome do projeto selecione API.
+
+configuras as rotas do projeto
+
+
+Conheça o Postman para testar a API
+
+
+
