@@ -2,5 +2,18 @@
     "cSpell.words": [
         "middlewares",
         "standardld"
+    ],
+    "cSpell.ignoreWords": [
+        "builder",
+        "cursomvc",
+        "datebase",
+        "dbcontext",
+        "dbset",
+        "intemscafot",
+        "localdb",
+        "mssqllocaldb",
+        "options",
+        "server",
+        "visivel"
     ]
 }

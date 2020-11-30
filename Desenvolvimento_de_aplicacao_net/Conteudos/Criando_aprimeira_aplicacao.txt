@@ -1,2 +1,77 @@
 Criando a primeira aplicação APS .NET
 
+baixar o visual studio 2019 community
+
+no site  https://visualstudio.microsoft.com/pt-br/vs/
+
+criar um novo projeto 
+Aplicativo web ASP .Net Core
+
+escolher a versão 3.0.
+
+escolher o tipo aplicativo web modelo controlador
+
+deixar marcado o https
+
+criar
+
+vai em model 
+adicionar uma classe nova chamada categoria
+entrar em categoria 
+
+public int Id {get;set;}
+
+public string descrição {get;set;}
+
+instalar alguns pacotes
+
+ferramentas 
+
+gerenciador de pacotes NuGet
+
+Console do gerenciador
+
+install-Package microsoft.EntityFrameworkCore.SqlServer
+
+install-Package microsoft.EntityFrameworkCore.Tools
+
+criar mais uma model 
+
+classe chamada context
+
+Db.context clica em cima para add o using
+
+Dentro da classe tem um método
+
+public Dbset <classe categoria> categorias {get;set;}
+
+protected override void  OnConfiguring 
+(DbcontextOptionsBuilder optionsBuilder)
+{
+banco de dado que você vai utilizar
+optionsBuilder.useSqlServer(connectionString:
+@ "Server =(localdb)/mssqllocaldb;Datebase=cursomvc;Integrated Security=True");
+
+}
+
+Tem que deixar deixar visivel 
+
+Startup.cs
+
+services.AddDbcontext<Context>();
+
+Voltar no Console do gerenciador
+
+Add-Migration InitialCreate
+
+Update-Datebase
+
+vai na pasta controller e adicionar novo intemscafot
+criar um controlador mvc com exibição usando EntityFramework
+
+
+
+
+
+
+
