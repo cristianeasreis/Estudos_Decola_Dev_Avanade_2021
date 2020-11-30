@@ -26,3 +26,7 @@ Um curso voltado para iniciantes em C# e .NET que foca no aprendizado teórico d
 
 Aprenda a sobre o Entity Framework, como criar aplicativos web ASP .NET API e ASP .NET MVC. Você também vai criar testes na aplicação e um projeto com Unit Tests.
 
+# Configuração da arquitetura back-end com .NET Core
+
+Aprenda de forma 100% prática a desenvolver um projeto com .NET Core usando RESTful APIs e outras funções que otimizam o trabalho com a tecnologia.
+
