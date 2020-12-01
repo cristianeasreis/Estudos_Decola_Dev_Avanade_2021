@@ -1,5 +1,25 @@
 {
     "cSpell.ignoreWords": [
-        "aspnetcore"
+        "apsnetcore",
+        "aspnetcore",
+        "dependencia",
+        "depois",
+        "e",
+        "em",
+        "instala",
+        "jwt",
+        "nuget",
+        "o",
+        "obrigatorios",
+        "pacote",
+        "provider",
+        "swashbuckle",
+        "vai"
+    ],
+    "cSpell.words": [
+        "configura",
+        "configuração",
+        "o",
+        "provider'jwt"
     ]
 }

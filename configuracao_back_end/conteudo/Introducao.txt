@@ -18,5 +18,50 @@ configuras as rotas do projeto
 
 Conheça o Postman para testar a API
 
+Configuração do swagger para documentação do API
+
+> instalação do pacote nuget
+> configuração do XML
+> configuração do Service (IOC)
+> habilitar o Middleware.
+
+vai no projeto propriedades build e marca o xml e deixa com o nome do projeto.
+
+depois vai em dependencia e instala o pacote swashbuckle Aspnetcore.
+
+instalar a biblioteca swashbuckle Aspnetcore.annotations.
+
+Setup validação de entrada de dados 
+
+> criação das ViewModels
+> configuração das ViewModels
+> configuração do ActionFilter
+> configuração da Startup
+
+required e para campos obrigatorios.
+
+Protegendo nossa API
+
+configuração 'provider'JWT
+
+> instalação do Pacote nuget
+> configuração do Service (IOC)
+> habilitar o Middleware
+
+instalar microsoft Apsnetcore Authentication
+instalar microsoft Apsnetcore AuthenticationJwtBearer
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
