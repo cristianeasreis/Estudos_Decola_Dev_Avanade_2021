@@ -51,6 +51,8 @@ configuração 'provider'JWT
 instalar microsoft Apsnetcore Authentication
 instalar microsoft Apsnetcore AuthenticationJwtBearer
 
+Authorise serve para proteger API
+
 
 
 
