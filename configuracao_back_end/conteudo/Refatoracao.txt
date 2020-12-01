@@ -1,0 +1,9 @@
+O que é IOC e DI Pattern - Refatoração
+
+Um pouco de design Pattern
+
+IOC - inversão de controle
+DI - injeção de dependencia 
+
+Repository Pattern
+
