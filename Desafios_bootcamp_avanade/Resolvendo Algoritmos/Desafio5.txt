@@ -1,0 +1,16 @@
+Resolvendo Algoritmos´
+
+5 / 7 - Idade em Dias
+
+using System;
+
+class MinhaClasse {
+  public static void Main (string[] args) {
+    var idadeEmDias = int.Parse(Console.ReadLine());
+    var anos = 1; // Implemente aqui o calculo dos anos
+    var meses = 2; // Implemente aqui o calculo dos meses 
+    var dias =  3; // Implemente aqui o calculo dos dias
+
+    Console.WriteLine($"{anos} ano(s)\n{meses} mes(es)\n{dias} dia(s)");
+  }
+}
