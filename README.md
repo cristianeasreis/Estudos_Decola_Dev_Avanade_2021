@@ -30,3 +30,8 @@ Aprenda a sobre o Entity Framework, como criar aplicativos web ASP .NET API e AS
 
 Aprenda de forma 100% prática a desenvolver um projeto com .NET Core usando RESTful APIs e outras funções que otimizam o trabalho com a tecnologia.
 
+# Desafios Do Bootcamp Avanade Dio
+
+Introdução a Programação C#
+Solução de Problemas Essenciais com C#
+Resolvendo Algoritmos

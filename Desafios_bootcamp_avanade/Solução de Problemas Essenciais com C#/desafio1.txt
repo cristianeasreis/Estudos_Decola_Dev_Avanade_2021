@@ -1,0 +1,19 @@
+Solução de Problemas Essenciais com C#
+
+1 / 5 - Quadrado e ao Cubo
+
+using System;
+
+class Program {
+
+  static void Main(string[] args) {
+    int limit = Int32.Parse(Console.ReadLine());
+    //Console.WriteLine(limit);
+    for (int i = 1; i <= limit; i++) 
+    {
+        var dobro = i * i;
+        var cubo = dobro * i;
+        Console.WriteLine(i + " " + dobro + " " + cubo);
+    }
+  }
+}
