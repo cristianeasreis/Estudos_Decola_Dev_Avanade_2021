@@ -5,7 +5,7 @@ O angular é modular
 Modulo é um limitador de contexto, onde vc tem um serie de
 componentes.
 
-Os componentes tras vida aos módulos.
+Os componentes trás vida aos módulos.
 
 selector vai gerar uma tag e vc pode usar ele em qualquer lugar.
 
