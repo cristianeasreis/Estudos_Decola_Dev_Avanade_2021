@@ -2,3 +2,47 @@ Introdução ao Angular 8
 
 Instalando e configurando o ambiente
 
+Instalar 
+
+> node js
+> Angular cli
+> visual code
+
+comando para instalar o Angular
+
+npm install -g @angular/cli
+
+Criando a primeira aplicação com Angular
+
+ng new e nome do projeto
+
+modo de router no começo não 
+estilo css padrão
+
+Visual studio code e add o projeto
+
+Arquivos fundamentais 
+
+package.json - nesse arquivo contem toda a dependência na aplicação.
+
+angular.json - ele contem as informações globais da aplicação.
+
+o main - ele é responsável para inicializar a aplicação.
+
+pasta node_módulos -nessa pasta contem todas as dependências 
+da navegação.
+
+src - pasta raiz
+
+componente pai ele é responsavel por envelopar todos os componentes
+que agente criar.
+
+através do app root e que é tudo carregado.
+
+para iniciar aplicação - ng serve.
+
+o angular usa a porta padrão 4200.
+
+
+
+
