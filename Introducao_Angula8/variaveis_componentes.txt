@@ -1,2 +1,41 @@
 O que é injeção de dependência
 
+Tem que tornar a classe elegível para o angular 
+entender uma aplicação.
+
+Tratando eventos data binding
+
+{{NgModel}}
+
+Quando a utilização do _ e  para mostrar 
+a varável naquele lugar.
+
+input e de leitura 
+set 
+get
+
+Transformando datas com Pipes
+
+Pipes - alterar exibição ou qualquer 
+coisa que vc queira alterar.
+| date: 'dd/mm/yyyy '- para formatar.
+| lowercase - letras minusculas.
+vc também pode concatenar mais de um Pipes
+
+sempre que criar um serviço criar ele já 
+com nome do que ele vai fazer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
