@@ -13,6 +13,16 @@ selector vai gerar uma tag e vc pode usar ele em qualquer lugar.
 
 O angular fortalece o html.
 
+como instalar o bootstrap na aplicação.
+
+npm install bootstrap
+
+depois tem que definir de forma global o bootstrap.
+
+vai ate styles.css
+
+@import '~bootstrap/dist/css/bootstrap.mim.css'
+
 
 
 
