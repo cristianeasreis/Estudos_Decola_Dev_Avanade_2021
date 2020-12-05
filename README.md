@@ -35,3 +35,7 @@ Aprenda de forma 100% prática a desenvolver um projeto com .NET Core usando RES
  || Introdução a Programação C# ||
  || Solução de Problemas Essenciais com C# ||
  || Resolvendo Algoritmos ||
+
+# Introdução ao Angular 8
+
+Nesse curso você aprenderá os conceitos e técnicas necessárias para começar a desenvolver aplicações usando Angular 8.
