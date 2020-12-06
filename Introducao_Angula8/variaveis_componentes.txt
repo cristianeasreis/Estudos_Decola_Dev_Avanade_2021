@@ -25,6 +25,10 @@ vc também pode concatenar mais de um Pipes
 sempre que criar um serviço criar ele já 
 com nome do que ele vai fazer.
 
+Protegendo Rotas com Guards
+
+Ativando Rotas para acessar componentes
+
 
 
 
