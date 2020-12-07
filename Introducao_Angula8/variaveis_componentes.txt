@@ -32,6 +32,9 @@ Ativando Rotas para acessar componentes
 Pasta Shared mode - ela vai conter componentes de nível 
 pequenos.
 
+Pasta Core - Componentes mais pesados ou mais 
+carregados.
+
 
 
 
