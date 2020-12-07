@@ -29,6 +29,9 @@ Protegendo Rotas com Guards
 
 Ativando Rotas para acessar componentes
 
+Pasta Shared mode - ela vai conter componentes de nível 
+pequenos.
+
 
 
 
