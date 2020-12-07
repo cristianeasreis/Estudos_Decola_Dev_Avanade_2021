@@ -5,6 +5,24 @@ Bibliotecas necessárias
 > NGX-Infinite-Scroll
 > RxJs
 
+Angular Material
+
+O angular material é a implementação oficial,para 
+o angular, Material Design, a especificação de 
+design para interfaces interativas do Google.
+O Material Design cobre desde pequenos elementos, como 
+ícones e cores, até elementos maiores como navegação
+cards, imagens e muito mais.
+
+angular material.io
+
+RxJs
+
+O Rxjs é uma biblioteca para programação reativa usando
+observables, para facilitar a composição de código 
+assíncrono ou baseado em retorno de chamada.
+
+
 
 
 
