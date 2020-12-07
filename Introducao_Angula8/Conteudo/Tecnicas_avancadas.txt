@@ -1,0 +1,10 @@
+Bibliotecas necessárias
+
+> Angular Material
+> JSON Server
+> NGX-Infinite-Scroll
+> RxJs
+
+
+
+
