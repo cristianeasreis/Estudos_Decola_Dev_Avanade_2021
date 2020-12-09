@@ -39,3 +39,12 @@ Aprenda de forma 100% prática a desenvolver um projeto com .NET Core usando RES
 # Introdução ao Angular 8
 
 Nesse curso você aprenderá os conceitos e técnicas necessárias para começar a desenvolver aplicações usando Angular 8.
+
+# Aplicando design patterns na prática com C#
+
+Neste projeto aprenda a desenvolver aplicações em C# confiáveis e estruturadas com as melhores práticas do mercado.
+
+# Desenvolvendo sua aplicação com C# usando DDD
+
+Neste projeto aprenda a desenvolver aplicações robustas alinhadas a complexidade da lógica de negócios.
+
