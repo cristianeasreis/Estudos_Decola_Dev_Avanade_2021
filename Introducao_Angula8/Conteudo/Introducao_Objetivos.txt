@@ -16,5 +16,26 @@ usuário.
 
 > Unidirecional.
 
+Ele é um processo executados no Angular Por Componentes ou Por Views.
+
+O que causa mudança no estado da nossa aplicação ?
+
+> Eventos: click, focus, submit,etc.
+> HTTP request.
+>Timers: setTimeout, setInterval.
+
+Ações Assíncronas !
+
+Zones 
+
+> Consiste em executar em pedaço de códigos dentro de um wrapper.
+> Wrapper sabe quando o código começou e terminou de ser executado.
+
+> ngZone - é um implementação
+
+Estrutura e Otimização
+
+
+
 
 
