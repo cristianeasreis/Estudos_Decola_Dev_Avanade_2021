@@ -35,6 +35,36 @@ Zones
 
 Estrutura e Otimização
 
+Padrão 
+
+Container vs Presenter
+
+> Separa nossos componentes entre Containers e Presenters
+> Permite utilizar o Change Detection a nosso favor.
+> Separa Responsabilidades.
+> Permite escrever componentes mais facilmente reutilizáveis.
+
+Presenter
+
+> Se preocupa em como as coisas são mostradas.
+> Recebe informação do componente pai via input.
+> Emite eventos para o componente pai via Output.
+> Não guardam estado.
+> Podem ter presenters e containers dentro deles.
+> Podem ser mais performáticos com OnPush.
+
+Container 
+
+> Se preocupa em como as coisas funcionam.
+> Consomem e geram informação de serviços.
+> Disparam ações com base nos eventos do componente filho.
+> Tem noção de estado.
+> Podem ter presenters e containers dentro deles.
+
+
+
+
+
 
 
 
