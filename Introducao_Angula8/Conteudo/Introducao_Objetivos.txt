@@ -1,0 +1,20 @@
+Aplicações avançadas com Angular
+
+O que é Change Detection
+
+> ngOnInit
+> ngAfterViewInit
+> ngOnDestroy
+
+O que é Change Detection ?
+
+> Mecanismo responsável por notar mudanças no estado 
+da nossa aplicação e refletir esse nov estado para o 
+usuário.
+
+> Processo executados nas views , começando pelo AppComponent
+
+> Unidirecional.
+
+
+
