@@ -68,6 +68,43 @@ Compartilhar informação
 um serviço pode ser provido na raiz ou ele pode ser promovido
 em um modulo especifico.
 
+Consistência de informação.
+
+gerenciamento de estado vc colocar a responsabilidade 
+para um serviço externo.
+
+Redux - padrão de arquitetura ele surgiu de dentro
+do facebook.
+
+ngrx é uma biblioteca externa.
+
+store - guarda o resultado da aplicação.
+os componentes simplesmente vai refletir.
+
+Reduce - ele receber a informação e vc consegue reduzir
+a informação.
+
+Um componente pode mudar o store através de ações.
+
+selector - vc seleciona pedaços do store.
+
+Service.
+
+effects - ele é responsável por fazer a comunicação HTTP.
+ou  se vc precisar combinar informação.
+eles tb podem disparar uma nova ação.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
