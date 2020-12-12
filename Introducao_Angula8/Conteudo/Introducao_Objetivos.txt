@@ -61,6 +61,17 @@ Container
 > Tem noção de estado.
 > Podem ter presenters e containers dentro deles.
 
+Serviços para compartilhar uma operação
+Serviços existem para compartilhar a mesma instancia.
+Compartilhar informação
+
+um serviço pode ser provido na raiz ou ele pode ser promovido
+em um modulo especifico.
+
+
+
+
+
 
 
 
