@@ -124,6 +124,44 @@ Selectors - Ele é simplesmente uma constante.
 
 Seletor responsável por pegar uma props.
 
+Resumo
+
+Como a informação não é persistida acontecem muitos
+loads ao navegar entre paginas
+
+Não é a melhor implementação possivel fazer o todo 
+criado ser mandado para o dashboard component, para 
+então ser passado para atualiza a lista no last-todos.
+
+Compartilhar informação,dentre outas coisas, entre
+componentes , diretivas, serviços , etc..
+
+O last-todos component não reage ás mudanças do estado
+da lista que está dentro do ListService.
+
+Possibilita os componentes a ouvir á modificações e 
+reagir a elas.
+
+Dispara um comando para o ListService e ouvir as 
+mudanças que esse comando gerou.
+
+A responsabilidade dos componentes é disparar ações 
+e ouvir as mudança geradas por essas ações.
+
+Para calcular o novo estado com base no estado atual e 
+a action disparada.
+
+Seletores nos possibilitam a interceptar para selecionar
+um novo pedaço da store.
+
+
+
+
+
+
+
+
+
 
 
 
