@@ -94,6 +94,45 @@ effects - ele é responsável por fazer a comunicação HTTP.
 ou  se vc precisar combinar informação.
 eles tb podem disparar uma nova ação.
 
+ngrx store instalar 
+ngrx stores dev tools instalar
+
+Ele é uma instrutura de dados é por meio de reducer.
+
+Definir estado global da aplicação.
+
+Objeto chave e valor.
+
+instalar chrome reducer tools no navegador.
+
+criação das ações - create reducer.
+
+Um padrão do reducer acão - informação que fica 
+dentro e fora.
+
+ação - não é nada mais do que um função.
+
+Um componente pode de varias ações.
+
+CreateReducer e Effects 
+
+Effects - Ele é responsável pelas ações.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
