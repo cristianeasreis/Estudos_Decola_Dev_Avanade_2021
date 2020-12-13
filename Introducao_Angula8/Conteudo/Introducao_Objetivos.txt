@@ -118,6 +118,16 @@ CreateReducer e Effects
 
 Effects - Ele é responsável pelas ações.
 
+Manipulação da Store com Selectors.
+
+Selectors - Ele é simplesmente uma constante.
+
+Seletor responsável por pegar uma props.
+
+
+
+
+
 
 
 
