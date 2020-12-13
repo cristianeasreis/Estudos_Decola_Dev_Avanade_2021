@@ -1,4 +1,43 @@
 
 Entendendo a importância de desenvolver testes
 
+Por que Testar ?
+
+> Testes são uma boa documentação
+> Permite refatorações e adição de novas feactures
+de uma forma mais fácil.
+> Dão segurança pro Desenvolvedor.
+
+Tipos de Testes 
+
+Teste Unitário 
+
+> Testa porções individuais do código.
+> Isolados
+> Sem Dependências.
+
+Teste de Integração 
+
+> Testa componentes/diretivas/serviços com duas Dependência
+> Chamadas HTTP
+> View
+
+Teste e2e
+
+> Testa o fluxo da aplicação e se as acções esperadas e não 
+esperadas geram estados esperados.
+
+Testes unitários e de Integração 
+
+Jasmine - Framework onde um teste é descrito.
+
+Karma - Task runner - Define o framework de testes, browser,etc,
+
+No angular cli ja tem tudo preparado.
+
+describe é como se fosse um bloco de teste.
+
+comando - ng test
+
+
 
