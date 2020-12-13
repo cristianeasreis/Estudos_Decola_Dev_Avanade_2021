@@ -24,7 +24,7 @@ Teste de Integração
 
 Teste e2e
 
-> Testa o fluxo da aplicação e se as acções esperadas e não 
+> Testa o fluxo da aplicação e se as ações esperadas e não 
 esperadas geram estados esperados.
 
 Testes unitários e de Integração 
@@ -38,6 +38,41 @@ No angular cli ja tem tudo preparado.
 describe é como se fosse um bloco de teste.
 
 comando - ng test
+
+Marble Syntax - Ele é bem simples.
+
+Você consegui uma linha do tempo.
+
+instalar jasmine-marbles.
+
+Resumo 
+
+Uma Função Pura.
+
+Se o fluxo de uma feature inteira funciona como esperado.
+
+Para validar o fluxo de uma feature de ponta a ponta.
+
+Para executar alguma pedaço de código que seja bem comum entre todos 
+os testes , antes ou depois de cada um deles ser executado.
+
+Para facilidade , para não precisar declarar todos os componentes , serviços , etc
+e suas dependências.
+
+Quando atualizamos alguma informação que é um bind com a view e queremos verificar
+se ele foi atualizada.
+
+
+AAA - Arrange , act, assert.
+
+Pois como o objetivo dos testes era validar o componente dos effects, não devemos
+nos importar como os metados dentro do serviço foram implementados, logo ,podemos 
+fazer a definição mais simples dele.
+
+Criamos Observables mock para a ação disparada e a ação esperada no retorno,
+então validamos se o resultado do effects é o Observable que esperavamos receber.
+
+
 
 
 
