@@ -1,0 +1,37 @@
+
+O que é ControlValueAccess
+
+> Age como ponte entre a API de formlário do 
+angular e um elemento nativo do DOM.
+> Interage com um FormControl, criado explicidamente ou não.
+
+Você trasforma um componente em um emputy.
+
+É uma boa anternativa pra criar um ponto generico.
+
+ngcontrol é uma referencia.
+
+Resumo 
+
+Formcontrol só existe quando trabalhamos com reactive forms.
+
+Para prevenir o angular de tentar procurar a dependência 
+fora do injetor do componente que implementa o ControlValueAccess.
+
+para passar o componente uma função que pode ser executada
+para atualizar o formcontrol que esta sendo injetado nele.
+
+Para passar o componente uma função que pode ser executada
+par amarca o formcontrol que está sendo injetado nele como 
+touched.
+
+Nenhuma as alternativas para que serve o método setDiseblestate.
+
+Para o componente pai notificar o componente controlvalueaccessor
+que o formcontrol foi atualizado por fora.
+
+
+
+
+
+
