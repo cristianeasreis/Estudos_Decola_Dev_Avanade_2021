@@ -1,2 +1,40 @@
 
 Manipulação do DOM
+
+Vamos da  nome ao template
+Para dar nome aos elementos utilizamos o #.
+
+templateref- ele espera receber um contexto como referencia.
+
+O angular  entende seus componentes como views.
+
+ng-container - é uma tag que o angular não renderiza.
+
+*ngif - ele consegue pegar uma referencia do template.
+
+Resumo 
+
+Uma referência a um template  que não é renderizado no 
+Dom , mas pode ser usado para criar Views dinâmicas.
+
+Envolve o Elemento em um NgTamplate.
+
+Aceitar um templateref pode tornar o componente mais genérico
+já que quem define o template é o componente pai que o utiliza.
+
+Nenhuma das alternativas.
+
+Let define o valor implicito no contexto a Keyword usada 
+na micro sintaxe é retirada do nome do input.
+
+Ulilizando Injeção de Dependência.
+
+Uma referência a um pedaço da view e que é usado para manipular
+o DOM.
+
+
+
+
+
+
+
