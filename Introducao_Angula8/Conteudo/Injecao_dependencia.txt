@@ -1,3 +1,68 @@
 
 Injeção de dependência
 
+Injeção de Dependência 
+
+> Padrão de design
+> Dependência são serviços ou objetos que uam classe
+precisa para executar alguma ação.
+> Com DI, a classe pede a dependência de um provedor externo
+ao invés de instanciar manualmente.
+
+Problemas: Cada componente tem uma instancia diferente.
+Dificil de criar um mock para testes.
+
+Injetores 
+
+> Fonte responsável por armazenar a estrutura chave/valor dos providers.
+> instancia classes e injeta a instacia nos componentes que pedem por ela.
+> Funiconam de forma hierárquica.
+
+ModuleInjector
+ElementInjector
+
+Tokens
+
+> Precisam existir em runtime
+> Não podem ser tipos primitivos, interfaces , funções etc.
+> Na maioria das vezes tokens são classes.
+
+Provideres - Deternima o valor de um dado token normalmente instaciando
+uma classe.
+Também useValue para prover um valor literal.
+useExisting para prover um valor já existente.
+useFactory para prover uma função que retorna o valor a ser provido.
+
+Sobrescrever providers 
+Multi providers
+
+Resumo 
+
+É um serviço ou um objeto que uma classe precisa.
+
+Uma forma de uma classe receber um valor de um provedor tal que 
+essa classe não precisa se preocupar com inicialização.
+
+Para definir uma nova entrada na estrutura que guarda as dependências
+que o injetor desse módulo pode prover.
+
+Passa a resposabilidade para o injetor pai, subindo a cadeia de 
+injetores até achar , se não achar dispra um erro.
+
+São as Chaves na estrutura guardada por um injetor.
+
+Todos os métodos acima são validos.
+
+SkipSelf
+
+Utilizar a definição passada para o modulo em alguma computação.
+
+
+
+
+
+
+
+
+
+
