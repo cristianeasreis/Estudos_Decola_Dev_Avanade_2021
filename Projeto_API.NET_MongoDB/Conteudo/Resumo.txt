@@ -1,0 +1,130 @@
+Construindo um projeto de uma API.NET integrada ao MongoDB
+
+
+Backend 
+
+> Banco de Dados 
+> Integrações 
+>  Cache
+>  Processamentos paralelos em batch, etc...
+>  Mensageria
+>  Serviços Cloud
+>  Regras de Negócios.
+etc....
+
+
+API - Application Programming Interface.
+
+As APIs proporcionam a integração entre sistemas que possuem linguaguem
+totalmente distintas de maneira ágil e segura.Em outras formas de integração
+de sistemas , o profissional que realiza o trabalho preicsa, muitas vezes
+no qual se busca efetuar a integração.
+
+Banco De Dados 
+
+Bancos Relacionais
+
+SQL - Structured Query Languagem
+
+> SQL Server
+>  MySQL
+>  PostgreSQL
+> Oracle
+
+Bancos não Relacionais
+
+NoSQL - Not Only SQL
+
+Classe de bando de dados que fornecem um mecanismo para armazenamento
+e recuperação de dados que são modelados de forma diferentes das 
+relações tabulares usadas nos bancos de dados relacionais.
+
+Tais bancos de dados existem desde o final da Década de 1960, mas 
+não obtiveram o apelido de NoSQL até atingirem sua onde de popularidades
+no início do século 21, desenvadeada pelas necessídades das empresas
+de Web 2.0 como facebook, Google e armazon.com.
+
+Origem Do Termo NoSQL
+
+O termo NoSQL foi usado por Carlo Strozzi em 1998 para nomear seu 
+banco de dados relacional Open Source, chamado Strozzi NoSQL, que 
+não expôs a interface padrão da linguaguem de consultar estruturada
+(SQL), mas ainda era relacional.
+
+Por Que usar NoSQL e não SQL?
+
+> Performance
+> Escalabilidade
+> Flexibilidade
+> Agilidade de desenvolvimento
+
+Classes NoSQL
+
+Atualmente existem mais de 200 bancos NoSQL!
+Existem 4 classes de NoSQL:
+
+> Chave/Valor (Key-Value) - REDIS
+> Colunas (Column Family) - CASSANDRA
+> Documento (Document Model) - MONGODB
+> Grafos (Graph) - NEO4J
+
+site db-engines.com
+
+MongoDB
+
+> Document Model / Multi-model
+> Escrito em C++
+> OpenSource - github.com/mongodb/mongo
+> Multi- Plataforma
+> Armazena dados em Formato BSON
+
+Terminologia 
+
+Relational DB                   MongoDB
+
+Base de Dados                   Base de Dados
+Tabela                          Coleção
+Registro                        Documento
+Coluna                          Atributo
+
+Versões 
+
+> Community
+> Enterprise
+
+Standalone 
+
+> Atende aplicações que não necessitam de escalabilidade e alta disponibilidade.
+> Possui apenas um mongod em execução.
+
+Ele não é indicado para produção.
+
+Replicaset
+
+> Um conjutno de mongod que armazena os mesmos dados.
+> A replicação fornece redundância e aumenta a disponibilidade de dados.
+> Fornece um Nível de tolerância a falhas contra a perda de um único 
+servidor de bando de dados.
+> Recomendado para a maioria dos ambientes produtivos.
+> Alguns deploys podem ser configurados para aumentar a capacidade
+de leitura.
+
+Esse formato é indicado para Produção.
+
+MongoDB Compass
+
+Para realizar querying e avaliar schemas e aggregations
+
+MongoDB Atlas 
+
+> Totalmente gerenciado
+> Consegue colocar na mesma vpc na cloud(GCP azure ou AWS)
+> Versões Enterprise
+> Temo o mongo stitch (tipo serverless em node)
+> Da para ativar o charts : Cria dashboards , paga por 
+uso (até 1GB por mês é gratis 500 mil views)
+> Tem command line tools
+> Estrutura: Projeto > Cluster > user > database.
+
+
+
