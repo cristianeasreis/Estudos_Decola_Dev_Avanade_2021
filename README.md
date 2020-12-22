@@ -54,3 +54,7 @@ Neste projeto aprenda a desenvolver aplicações robustas alinhadas a complexida
 
 Construiremos um projeto de uma API em .NET Core integrada a um cluster MongoDB, que também criaremos em tempo real no service cloud Mongo Atlas. Vamos repassar brevemente os conceitos básicos de front-end, back-end, bases de dados, NoSQL e MongoDB para fixar o entendimento e sua aplicabilidade.
 
+# Utilizando o Cypress E2E para testar um Blog em Angular
+
+Neste projeto você terá o desafio de construir um teste E2E com Cypress para um Blog em Angular.
+
