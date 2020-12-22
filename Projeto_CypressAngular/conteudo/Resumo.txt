@@ -1,3 +1,47 @@
 Utilizando o Cypress E2E para testar um Blog em Angular
 
 Testes E2E Com Cypress
+
+Motivação - Automatizar os testes das aplicações ganhando
+
+> Agilidade (tempo)
+> Qualidade (bugs)
+> Economia de horas (custos).
+
+Porque não somente Testes Unitários ?
+
+O teste e2e simula a navegação pelo usuário , validando não só a 
+integração front end como a integração banck end.
+Testes unitários valida a qualidade do código , e2e valida a aplicação.
+
+Cypress ?
+
+> JavaScript baixa curva de aprendicado, custo com treinamento
+reduzido.
+
+> Performance Paralelismo, Stress , Test , Load Test.
+
+> Recorder Cypress Recorder (chrome), Katalon Recorder.
+
+> Produtividade Auto-Reload , Spies, Stubs e Mocks.
+
+> Lincença OpenSource(MIT)
+
+> End - to - end test Integration tests, Unit tests.
+
+Trade - offs 
+
+> Cypress não é uma ferramenta de automação de uso geral 
+
+> Os comando do Cypress sempre são executados dentro de um navegador.
+
+> Nunca haverá suporte para várias guias do navegador.
+
+> Você não pode usar o Cypress para controlar dois navegadores
+no mesmo teste.
+
+> Você não pode visitar dois domínios no mesmo teste.
+
+
+
+
