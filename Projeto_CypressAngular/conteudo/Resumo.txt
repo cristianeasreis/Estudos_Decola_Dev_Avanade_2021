@@ -42,6 +42,14 @@ no mesmo teste.
 
 > Você não pode visitar dois domínios no mesmo teste.
 
+Comandos Cypress
+
+npx cypress run
+npx cypress open
+
+npx cypress run --spec "cypress/integration/exemplo.spec.js"
+
+
 
 
 
