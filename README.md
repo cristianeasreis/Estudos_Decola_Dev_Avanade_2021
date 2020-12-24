@@ -58,3 +58,7 @@ Construiremos um projeto de uma API em .NET Core integrada a um cluster MongoDB,
 
 Neste projeto você terá o desafio de construir um teste E2E com Cypress para um Blog em Angular.
 
+# Criando projeto para consultar a previsão do tempo via API
+
+Neste Labs o objetivo é evoluir mais ainda seus conhecimentos em Angular e desenvolvimento Web. Aprenda uma forma avançada de gerenciamento de estado com NGRX, práticas e padrões de desenvolvimento, acompanhados de algumas APIs úteis que o Angular tem, mas que nem todo mundo conhece.
+
