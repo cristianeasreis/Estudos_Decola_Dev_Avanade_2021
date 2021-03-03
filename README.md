@@ -66,3 +66,8 @@ Neste Labs o objetivo é evoluir mais ainda seus conhecimentos em Angular e dese
 
 Aprenda mais sobre Data Domain Design (ou DDD), e entenda um conjunto de princípios e boas práticas de como modelar um software com foco total no domínio de um problema de negócios, explore modelos de forma criativa e entenda o que é a linguagem Ubíqua  (ou linguagem onipresente) para criar software ainda mais profissionais.
 
+## **Aplicando design patterns na prática com C#**
+
+Aprenda a criar e utilizar os padrões de projetos utilizados pelo mundo todo, implemente estruturas confiáveis e padronizadas utilizando as melhores práticas do mercado e então crie soluções mais escaláveis, tudo isso na prática utilizando C#.
+
+# 
