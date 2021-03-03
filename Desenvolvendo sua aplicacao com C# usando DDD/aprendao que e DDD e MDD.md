@@ -35,8 +35,18 @@
 > 2. Aplicação- essa camada não possui lógica de negócio. Ela é apenas uma camada fina, responsável por conectar a interface de Usuário às camadas inferiores;
 > 3. Domínio- representa os conceitos, regras e lógicas de negócio. Todo o foco de DDD está nessa camada . Nosso trabalho , daqui para frente , será aperfeiçoar e compreender profundamente essa parte;
 > 4. Infra-estrutura - fornece recursos técnicos que darão suporte às camadas superiores. São normalmente as partes de um sistema responsáveis por persistência de dado, conexões com bando de dados, envio de mensagens por redes, gravação e leitura de discos , etc,
+>
+> Camada de Domínio é um ponto central onde a camada fica isolada.
 
+#### **Regras para modelagem do Domínio** 
 
+> - Entidades- classes de objetos que necessitam de uma identidade. Normalmente são elementos do domínio que possuem ciclo de vida dentro de nossa aplicação: um Cliente , por exemplo, se cadastra no sistema, faz compras , se torna inativo, é excluído , etc.;
+> - Objetos de Valores - objetos que só carregam valores, mas que não possuem distinção de identidade . Bons exemplos de objetos de valores seriam: strings, números ou cores. Por exemplo : se o lápis de cor da criança acabar e você der um novo lápis a ela , da mesma cor , só que de outra caixa, ela não vai se importar, Para a criança , o lápis vermelho de uma caixa é igual ao lápis vermelho de outra caixa. As instâncias de Objetos de Valores são imutáveis, isto é , uma vez criados, seus atributos internos não poderão mais ser modificados.
+> - Agregados- compostos de Entidades ou Objetos de Valores que são encapsulados numa única classe. O agregado serve para manter a integridade do modelo. Elegemos uma classe para servir de raiz do Agregado. Quando algum cliente quiser manipular dados de uma das classes que compõem o Agregado, essa manipulação só poderá ser feita através da raiz;
+> - Fábricas - classes responsáveis pelo processo de criação dos Agregados ou do Objetos de Valores. Algumas vezes, Agregados são relativamente complexos e não queremos manter a lógica de criação desses Agregados nas classes que o compõem . Extraímos então as regras de criação para classe externa a fábrica;
+> - Serviços - classes que contém lógica de negócios, mas que não pertence a nenhuma Entidade ou Objetos a um mesmo serviço, É importante ressaltar que Serviços não guardam estado, ou seja , toda chamada a um mesmo serviço, dada uma pré -condição , dever retornar sempre o mesmo resultado;
+> - Repositórios - classes responsáveis por administrar o ciclo de vida dos outros objetos, normalmente Entidades, Objetos de Valor e Agregados . Os repositórios são classes que centralizam operações de criação , alteração e remoção de objetos.
+> - Módulos - abstrações que têm por objetivos agrupar classes por um determinado conceito do domínio . A maioria das linguagens de programação oferecem suporte a módulos (pacotes em Java, namespaces em .Net ou módulos em Ruby).
 
 
 
