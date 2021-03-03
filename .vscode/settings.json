@@ -273,6 +273,7 @@
         "estar",
         "estender",
         "estes",
+        "estrutruras",
         "estrutura",
         "estrutura de sequência são as comandos a serem executados cima para baixo linha do programa forma sequencial seleções sequências que so devem ser executadas se uma condição for satifeita esmplos if else switch e parecidos",
         "estrutura repetições sequências que devem ser executadas repetidamente até uma condição for satisfeita exemplos while do etc",
@@ -1674,5 +1675,5 @@
         "windows",
         "ximo"
     ],
-    "cSpell.language": "en,pt-BR"
+    "cSpell.language": "en,pt-BR,en-GB,en-US,pt"
 }
